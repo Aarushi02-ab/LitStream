@@ -13,3 +13,6 @@ Synthetic data generation to simulate real-world usage.
 Business intelligence reports focusing on user engagement, audiobook performance, and revenue analysis.
 This data product enables Litstream to derive actionable insights, enhance content recommendations, optimise marketing strategies, and improve overall operational efficiency.
 
+
+To see the project in detail, download the report pdf. Codes are added in the appendix.
+
